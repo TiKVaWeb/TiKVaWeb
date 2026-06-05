@@ -1,0 +1,103 @@
+<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">TiKVaWeb GitHub profile banner</title>
+  <desc id="desc">Dark high-tech banner for a CTO and Python engineer focused on scalable product architecture.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#060812"/>
+      <stop offset="0.48" stop-color="#0A1020"/>
+      <stop offset="1" stop-color="#070A12"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="130" y1="38" x2="900" y2="408" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <radialGradient id="pulseA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1044 98) rotate(135) scale(294 190)">
+      <stop stop-color="#22D3EE" stop-opacity="0.42"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="pulseB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(256 332) rotate(-22) scale(310 210)">
+      <stop stop-color="#A855F7" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#A855F7" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.133 0 0 0 0 0.827 0 0 0 0 0.933 0 0 0 0.7 0"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" stroke="#94A3B8" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+    <pattern id="microgrid" width="12" height="12" patternUnits="userSpaceOnUse">
+      <path d="M12 0H0V12" stroke="#22D3EE" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="420" fill="url(#bg)"/>
+  <rect width="1280" height="420" fill="url(#grid)"/>
+  <rect x="704" y="42" width="478" height="320" fill="url(#microgrid)" opacity="0.48"/>
+  <rect width="1280" height="420" fill="url(#pulseA)"/>
+  <rect width="1280" height="420" fill="url(#pulseB)"/>
+
+  <path d="M0 334C158 302 286 302 384 334C526 381 620 385 772 334C920 284 1050 281 1280 324" stroke="url(#cyan)" stroke-opacity="0.28" stroke-width="2"/>
+  <path d="M0 360C180 326 302 330 428 362C548 392 675 405 820 350C964 296 1096 292 1280 340" stroke="#22D3EE" stroke-opacity="0.14" stroke-width="1"/>
+
+  <g opacity="0.82">
+    <path d="M74 82H168L214 124H352" stroke="#22D3EE" stroke-opacity="0.22" stroke-width="1.5"/>
+    <path d="M70 320H182L220 282H366" stroke="#A855F7" stroke-opacity="0.48" stroke-width="1.5"/>
+    <circle cx="74" cy="82" r="4" fill="#22D3EE" filter="url(#glow)"/>
+    <circle cx="70" cy="320" r="4" fill="#A855F7"/>
+  </g>
+
+  <g transform="translate(88 72)">
+    <rect x="0" y="0" width="126" height="28" rx="14" fill="#0F172A" stroke="#22D3EE" stroke-opacity="0.32"/>
+    <circle cx="18" cy="14" r="4" fill="#22D3EE"/>
+    <text x="32" y="18" fill="#BAE6FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.5">TiKVaWeb</text>
+  </g>
+
+  <text x="88" y="158" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="46" font-weight="800" letter-spacing="0">
+    CTO &amp; Python Engineer
+  </text>
+  <text x="88" y="206" fill="#67E8F9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="0">
+    scalable product architecture
+  </text>
+  <text x="88" y="250" fill="#CBD5E1" fill-opacity="0.82" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="500" letter-spacing="0">
+    Backend platforms / Engineering leadership / Production systems
+  </text>
+  <text x="88" y="278" fill="#CBD5E1" fill-opacity="0.68" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="500" letter-spacing="0">
+    Web3 integrations / pragmatic delivery
+  </text>
+
+  <g transform="translate(88 316)">
+    <rect x="0" y="0" width="106" height="36" rx="18" fill="#0B1220" stroke="#22D3EE" stroke-opacity="0.34"/>
+    <text x="22" y="23" fill="#E0F2FE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">FastAPI</text>
+    <rect x="118" y="0" width="132" height="36" rx="18" fill="#0B1220" stroke="#22D3EE" stroke-opacity="0.28"/>
+    <text x="140" y="23" fill="#E0F2FE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">PostgreSQL</text>
+    <rect x="262" y="0" width="98" height="36" rx="18" fill="#0B1220" stroke="#A855F7" stroke-opacity="0.34"/>
+    <text x="284" y="23" fill="#F3E8FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Kafka</text>
+    <rect x="372" y="0" width="132" height="36" rx="18" fill="#0B1220" stroke="#A855F7" stroke-opacity="0.3"/>
+    <text x="394" y="23" fill="#F3E8FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Kubernetes</text>
+  </g>
+
+  <g>
+    <rect x="810" y="74" width="330" height="236" rx="12" fill="#020617" fill-opacity="0.78" stroke="#334155"/>
+    <rect x="810" y="74" width="330" height="38" fill="#0F172A" fill-opacity="0.92"/>
+    <circle cx="832" cy="93" r="5" fill="#EF4444"/>
+    <circle cx="850" cy="93" r="5" fill="#F59E0B"/>
+    <circle cx="868" cy="93" r="5" fill="#22C55E"/>
+    <text x="898" y="98" fill="#94A3B8" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12">architecture-ledger</text>
+    <text x="834" y="142" fill="#22D3EE" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="14">$ boot leadership.runtime</text>
+    <text x="834" y="174" fill="#CBD5E1" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="14">status: reliable systems</text>
+    <text x="834" y="206" fill="#CBD5E1" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="14">focus: backend platforms</text>
+    <text x="834" y="238" fill="#CBD5E1" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="14">mode: pragmatic delivery</text>
+    <text x="834" y="270" fill="#A78BFA" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="14">chain: product architecture</text>
+  </g>
+
+  <g opacity="0.9">
+    <rect x="1058" y="318" width="82" height="24" rx="12" fill="#07111F" stroke="#22D3EE" stroke-opacity="0.26"/>
+    <text x="1075" y="335" fill="#BAE6FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700">ONLINE</text>
+    <circle cx="1068" cy="330" r="3" fill="#22D3EE" filter="url(#glow)"/>
+  </g>
+</svg>
