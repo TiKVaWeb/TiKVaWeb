@@ -20,6 +20,11 @@ I build backend platforms and product systems with Python, FastAPI, PostgreSQL, 
 ![GitHub signal](./assets/profile-metrics-light-v1.svg#gh-light-mode-only)
 ![GitHub signal](./assets/profile-metrics-dark-v1.svg#gh-dark-mode-only)
 
+## Contribution Activity
+
+![Contribution activity](./assets/activity-overview-light-v1.svg#gh-light-mode-only)
+![Contribution activity](./assets/activity-overview-dark-v1.svg#gh-dark-mode-only)
+
 ## Principles
 
 - Clear architecture before scaling implementation.
