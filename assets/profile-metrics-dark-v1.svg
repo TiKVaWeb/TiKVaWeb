@@ -1,0 +1,67 @@
+<svg width="1200" height="242" viewBox="0 0 1200 242" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">TiKVaWeb GitHub activity signal (dark)</title>
+  <desc id="desc">Compact GitHub activity metrics and public repository language mix for TiKVaWeb.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#21262d" stroke-opacity="0.42"/>
+    </pattern>
+    <linearGradient id="accent" x1="40" y1="0" x2="1160" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#58a6ff"/>
+      <stop offset="0.52" stop-color="#3fb950"/>
+      <stop offset="1" stop-color="#bc8cff"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1198" height="240" rx="16" fill="#0d1117" stroke="#30363d"/>
+  <rect x="1" y="1" width="1198" height="240" rx="16" fill="url(#grid)" opacity="0.16"/>
+  <g transform="translate(40 34)">
+    <text x="0" y="18" fill="#8b949e" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="14" font-weight="700">activity.runtime</text>
+    <text x="0" y="52" fill="#58a6ff" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="18" font-weight="800">$ gh signal --compact</text>
+    <g transform="translate(0 78)">
+      <rect x="0" y="0" width="132" height="68" rx="12" fill="#161b22" stroke="#30363d"/>
+      <text x="18" y="31" fill="#f0f6fc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="26" font-weight="800">5</text>
+      <text x="18" y="54" fill="#8b949e" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">repos</text>
+      <path d="M3.5 6.5H9L11 9H20.5C21.9 9 23 10.1 23 11.5V18.5C23 19.9 21.9 21 20.5 21H3.5C2.1 21 1 19.9 1 18.5V9C1 7.6 2.1 6.5 3.5 6.5Z" transform="translate(94 20)" stroke="#58a6ff" stroke-width="2" stroke-linejoin="round"/>
+    </g>
+    <g transform="translate(152 78)">
+      <rect x="0" y="0" width="132" height="68" rx="12" fill="#161b22" stroke="#30363d"/>
+      <text x="18" y="31" fill="#f0f6fc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="26" font-weight="800">36</text>
+      <text x="18" y="54" fill="#8b949e" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">commits</text>
+      <path d="M13.09 23.549a1.54 1.54 0 0 1-2.18 0L.451 13.089a1.54 1.54 0 0 1 0-2.179l7.191-7.19 2.733 2.733a1.85 1.85 0 0 0 .964 2.326v6.66a1.849 1.849 0 1 0 1.54 0V8.957l2.508 2.508a1.85 1.85 0 1 0 1.09-1.09l-2.634-2.634a1.85 1.85 0 0 0-2.378-2.377L8.73 2.63 10.91.451a1.54 1.54 0 0 1 2.179 0l10.459 10.46a1.54 1.54 0 0 1 0 2.179z" transform="translate(94 20) scale(0.92)" fill="#F05033"/>
+    </g>
+    <g transform="translate(304 78)">
+      <rect x="0" y="0" width="132" height="68" rx="12" fill="#161b22" stroke="#30363d"/>
+      <text x="18" y="31" fill="#f0f6fc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="26" font-weight="800">3</text>
+      <text x="18" y="54" fill="#8b949e" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">stars</text>
+      <path d="M12 2.5L14.9 8.7L21.5 9.5L16.6 14L17.9 20.5L12 17.2L6.1 20.5L7.4 14L2.5 9.5L9.1 8.7L12 2.5Z" transform="translate(94 20)" fill="#d29922"/>
+    </g>
+    <g transform="translate(456 78)">
+      <rect x="0" y="0" width="132" height="68" rx="12" fill="#161b22" stroke="#30363d"/>
+      <text x="18" y="31" fill="#f0f6fc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="26" font-weight="800">1</text>
+      <text x="18" y="54" fill="#8b949e" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">follower</text>
+      <path d="M12 12.5A5.5 5.5 0 1 0 12 1.5A5.5 5.5 0 0 0 12 12.5ZM3.5 22C4.7 16.7 7.8 14 12 14C16.2 14 19.3 16.7 20.5 22" transform="translate(94 20)" stroke="#bc8cff" stroke-width="2" stroke-linecap="round"/>
+    </g>
+    <text x="0" y="178" fill="#8b949e" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">backend platforms / product architecture / reliable delivery</text>
+  </g>
+  <path d="M650 42V201" stroke="#30363d"/>
+  <g transform="translate(690 34)">
+    <text x="0" y="18" fill="#8b949e" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="14" font-weight="700">language.mix</text>
+    <text x="0" y="52" fill="#f0f6fc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="800">Python-heavy public code</text>
+    <rect x="0" y="74" width="450" height="14" rx="7" fill="#161b22" stroke="#30363d"/>
+    <rect x="1" y="75" width="432" height="12" rx="6" fill="#3572A5"/>
+    <rect x="433" y="75" width="16" height="12" rx="6" fill="#427819"/>
+    <g transform="translate(0 116)">
+      <rect x="0" y="0" width="214" height="62" rx="12" fill="#161b22" stroke="#30363d"/>
+      <rect x="18" y="13" width="42" height="36" rx="12" fill="#f6f8fa" stroke="#30363d"/>
+      <path d="M14.25.18l.9.2.73.26.59.3.45.32.34.34.25.34.16.33.1.3.04.26.02.2-.01.13V8.5l-.05.63-.13.55-.21.46-.26.38-.3.31-.33.25-.35.19-.35.14-.33.1-.3.07-.26.04-.21.02H8.77l-.69.05-.59.14-.5.22-.41.27-.33.32-.27.35-.2.36-.15.37-.1.35-.07.32-.04.27-.02.21v3.06H3.17l-.21-.03-.28-.07-.32-.12-.35-.18-.36-.26-.36-.36-.35-.46-.32-.59-.28-.73-.21-.88-.14-1.05-.05-1.23.06-1.22.16-1.04.24-.87.32-.71.36-.57.4-.44.42-.33.42-.24.4-.16.36-.1.32-.05.24-.01h.16l.06.01h8.16v-.83H6.18l-.01-2.75-.02-.37.05-.34.11-.31.17-.28.25-.26.31-.23.38-.2.44-.18.51-.15.58-.12.64-.1.71-.06.77-.04.84-.02 1.27.05zm-6.3 1.98l-.23.33-.08.41.08.41.23.34.33.22.41.09.41-.09.33-.22.23-.34.08-.41-.08-.41-.23-.33-.33-.22-.41-.09-.41.09zm13.09 3.95l.28.06.32.12.35.18.36.27.36.35.35.47.32.59.28.73.21.88.14 1.04.05 1.23-.06 1.23-.16 1.04-.24.86-.32.71-.36.57-.4.45-.42.33-.42.24-.4.16-.36.09-.32.05-.24.02-.16-.01h-8.22v.82h5.84l.01 2.76.02.36-.05.34-.11.31-.17.29-.25.25-.31.24-.38.2-.44.17-.51.15-.58.13-.64.09-.71.07-.77.04-.84.01-1.27-.04-1.07-.14-.9-.2-.73-.25-.59-.3-.45-.33-.34-.34-.25-.34-.16-.33-.1-.3-.04-.25-.02-.2.01-.13v-5.34l.05-.64.13-.54.21-.46.26-.38.3-.32.33-.24.35-.2.35-.14.33-.1.3-.06.26-.04.21-.02.13-.01h5.84l.69-.05.59-.14.5-.21.41-.28.33-.32.27-.35.2-.36.15-.36.1-.35.07-.32.04-.28.02-.21V6.07h2.09l.14.01zm-6.47 14.25l-.23.33-.08.41.08.41.23.33.33.23.41.08.41-.08.33-.23.23-.33.08-.41-.08-.41-.23-.33-.33-.23-.41-.08-.41.08z" fill="#3776AB" transform="translate(27 20) scale(0.9167)"/>
+      <text x="78" y="27" fill="#f0f6fc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="800">Python</text>
+      <text x="78" y="49" fill="#8b949e" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">96.1% public code</text>
+    </g>
+    <g transform="translate(236 116)">
+      <rect x="0" y="0" width="214" height="62" rx="12" fill="#161b22" stroke="#30363d"/>
+      <rect x="18" y="13" width="42" height="36" rx="12" fill="#1f6f2f" stroke="#30363d"/>
+      <text x="30" y="36" fill="#f0f6fc" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" font-weight="900">mk</text>
+      <text x="78" y="27" fill="#f0f6fc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="800">Makefile</text>
+      <text x="78" y="49" fill="#8b949e" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">3.9% public code</text>
+    </g>
+  </g>
+</svg>

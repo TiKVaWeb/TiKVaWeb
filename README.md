@@ -17,11 +17,8 @@ I build backend platforms and product systems with Python, FastAPI, PostgreSQL, 
 
 ## GitHub Signal
 
-![GitHub signal](./assets/github-signal-light.svg#gh-light-mode-only)
-![GitHub signal](./assets/github-signal-dark.svg#gh-dark-mode-only)
-
-![Language mix](./assets/languages-light.svg#gh-light-mode-only)
-![Language mix](./assets/languages-dark.svg#gh-dark-mode-only)
+![GitHub signal](./assets/profile-metrics-light-v1.svg#gh-light-mode-only)
+![GitHub signal](./assets/profile-metrics-dark-v1.svg#gh-dark-mode-only)
 
 ## Principles
 
