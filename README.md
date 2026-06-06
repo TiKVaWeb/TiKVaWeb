@@ -11,7 +11,7 @@ I build backend platforms and product systems with Python, FastAPI, PostgreSQL, 
 
 ## Stack & Work
 
-**Core stack:** Python, FastAPI, PostgreSQL, Redis, RabbitMQ, Kafka, Kubernetes, CI/CD  
+**Core stack:** Python, Go, FastAPI, PostgreSQL, Redis, RabbitMQ, Kafka, Kubernetes, Docker, CI/CD  
 **Architecture:** backend platforms, service boundaries, reliability, product architecture  
 **Experience:** large-scale education platform, crypto wallet / Web3 product, integration-heavy backend systems
 
