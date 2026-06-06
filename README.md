@@ -1,62 +1,30 @@
-<p align="center">
-  <img src="./assets/profile-banner.svg" alt="TiKVaWeb - CTO and Python Engineer focused on scalable product architecture" width="100%" />
-</p>
+![TiKVaWeb profile header](./assets/header-light.svg#gh-light-mode-only)
+![TiKVaWeb profile header](./assets/header-dark.svg#gh-dark-mode-only)
 
 # TiKVaWeb
 
 **CTO & Python Engineer focused on scalable product architecture.**
 
-I build backend platforms, lead engineering teams, and turn product complexity into reliable production systems. My core work sits around Python services, product architecture, distributed messaging, infrastructure, and pragmatic delivery.
+I build backend platforms and product systems with Python, FastAPI, PostgreSQL, distributed messaging, Kubernetes, and pragmatic CI/CD. My work combines architecture, engineering leadership, and production delivery.
 
 [Telegram: @TiKVa_dev](https://t.me/TiKVa_dev)
 
----
+## Stack & Work
 
-## Core Focus
-
-**Backend architecture**  
-APIs, service boundaries, data flows, reliability, and maintainability under real product pressure.
-
-**Product engineering**  
-Turning business requirements into shipped systems without losing technical clarity.
-
-**Engineering leadership**  
-Technical direction, team process, delivery discipline, architecture reviews, and mentoring.
-
-**Web3 integrations**  
-Wallet flows, transaction-oriented products, integration-heavy backend logic, and security-minded product architecture.
-
-## Tech Stack
-
-**Primary:** Python, FastAPI, PostgreSQL  
-**Messaging and cache:** Redis, RabbitMQ, Kafka  
-**Infrastructure:** Kubernetes, Docker, CI/CD  
-**Architecture:** backend platforms, service design, reliability, product architecture  
-**Product domains:** education platforms, crypto wallet products, Web3 integrations
-
-## Selected Work
-
-**Large-scale education platform**  
-Backend and platform architecture for an education product with complex user flows, service integrations, operational reliability requirements, and long-term maintainability needs.
-
-**Crypto wallet / Web3 product**  
-Wallet-oriented product engineering with transaction flows, integration-heavy backend logic, security-minded architecture, and production operations.
+**Core stack:** Python, FastAPI, PostgreSQL, Redis, RabbitMQ, Kafka, Kubernetes, CI/CD  
+**Architecture:** backend platforms, service boundaries, reliability, product architecture  
+**Experience:** large-scale education platform, crypto wallet / Web3 product, integration-heavy backend systems
 
 ## GitHub Signal
 
-Live repository and contribution data is available through GitHub's native profile views:
+![GitHub signal](./assets/github-signal-light.svg#gh-light-mode-only)
+![GitHub signal](./assets/github-signal-dark.svg#gh-dark-mode-only)
 
-- [Repositories](https://github.com/TiKVaWeb?tab=repositories)
-- [Contribution activity](https://github.com/TiKVaWeb)
-- [Profile overview](https://github.com/TiKVaWeb)
+![Language mix](./assets/languages-light.svg#gh-light-mode-only)
+![Language mix](./assets/languages-dark.svg#gh-dark-mode-only)
 
-## Operating Principles
+## Principles
 
-- Make architecture clear before scaling implementation.
-- Prefer explicit contracts, simple boundaries, and measurable reliability.
-- Build teams and systems that can ship without chaos.
-- Keep delivery practical: production value beats decorative complexity.
-
----
-
-Open to technical conversations, architecture reviews, and product engineering collaboration.
+- Clear architecture before scaling implementation.
+- Explicit contracts, simple boundaries, measurable reliability.
+- Production value over decorative complexity.

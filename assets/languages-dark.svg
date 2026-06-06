@@ -1,0 +1,10 @@
+<svg width="1200" height="206" viewBox="0 0 1200 206" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Language mix (dark)</title>
+  <desc id="desc">Local language card for TiKVaWeb public repositories.</desc>
+  <rect x="1" y="1" width="1198" height="204" rx="14" fill="#0d1117" stroke="#30363d"/>
+  <text x="48" y="46" fill="#f0f6fc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="800">Language mix</text>
+  <text x="48" y="70" fill="#8b949e" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">computed from public repositories</text>
+  <rect x="48" y="86" width="1010" height="16" rx="8" fill="#161b22" stroke="#30363d"/>
+  <rect x="48" y="86" width="971" height="16" rx="8" fill="#3572A5"/><rect x="1019" y="86" width="39" height="16" rx="8" fill="#427819"/>
+  <circle cx="55" cy="138" r="7" fill="#3572A5"/><text x="72" y="143" fill="#f0f6fc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">Python</text><text x="72" y="166" fill="#8b949e" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">96.1% public code</text><circle cx="285" cy="138" r="7" fill="#427819"/><text x="302" y="143" fill="#f0f6fc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">Makefile</text><text x="302" y="166" fill="#8b949e" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">3.9% public code</text>
+</svg>

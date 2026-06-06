@@ -1,0 +1,25 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">TiKVaWeb profile header (dark)</title>
+  <desc id="desc">Minimal GitHub profile header for CTO and Python engineer TiKVaWeb.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#21262d" stroke-opacity="0.45"/>
+    </pattern>
+    <linearGradient id="line" x1="52" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#58a6ff"/>
+      <stop offset="1" stop-color="#bc8cff"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1198" height="258" rx="16" fill="#0d1117" stroke="#30363d"/>
+  <rect x="1" y="1" width="1198" height="258" rx="16" fill="url(#grid)" opacity="0.24"/>
+  <path d="M64 78H214L252 104H492" stroke="url(#line)" stroke-width="2" stroke-opacity="0.65"/>
+  <circle cx="64" cy="62" r="5" fill="#58a6ff"/>
+  <text x="88" y="68" fill="#8b949e" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="15" font-weight="700">TiKVaWeb</text>
+  <text x="64" y="136" fill="#f0f6fc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="46" font-weight="800">CTO &amp; Python Engineer</text>
+  <text x="64" y="174" fill="#8b949e" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21" font-weight="500">scalable backend platforms, product architecture, engineering leadership</text>
+  <rect x="64" y="196" width="106" height="34" rx="17" fill="#161b22" stroke="#30363d"/><text x="82" y="218" fill="#f0f6fc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">Python</text><rect x="182" y="196" width="114" height="34" rx="17" fill="#161b22" stroke="#30363d"/><text x="200" y="218" fill="#f0f6fc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">FastAPI</text><rect x="308" y="196" width="138" height="34" rx="17" fill="#161b22" stroke="#30363d"/><text x="326" y="218" fill="#f0f6fc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">PostgreSQL</text><rect x="458" y="196" width="98" height="34" rx="17" fill="#161b22" stroke="#30363d"/><text x="476" y="218" fill="#f0f6fc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">Redis</text><rect x="568" y="196" width="122" height="34" rx="17" fill="#161b22" stroke="#30363d"/><text x="586" y="218" fill="#f0f6fc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">RabbitMQ</text>
+  <text x="896" y="84" fill="#8b949e" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="14">focus</text>
+  <text x="896" y="119" fill="#58a6ff" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="18" font-weight="700">reliable systems</text>
+  <text x="896" y="151" fill="#f0f6fc" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="16">backend platforms</text>
+  <text x="896" y="181" fill="#f0f6fc" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="16">pragmatic delivery</text>
+</svg>
