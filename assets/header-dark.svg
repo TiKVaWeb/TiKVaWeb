@@ -18,8 +18,15 @@
   <text x="64" y="136" fill="#f0f6fc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="46" font-weight="800">CTO &amp; Python Engineer</text>
   <text x="64" y="174" fill="#8b949e" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21" font-weight="500">scalable backend platforms, product architecture, engineering leadership</text>
   <rect x="64" y="196" width="106" height="34" rx="17" fill="#161b22" stroke="#30363d"/><text x="82" y="218" fill="#f0f6fc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">Python</text><rect x="182" y="196" width="114" height="34" rx="17" fill="#161b22" stroke="#30363d"/><text x="200" y="218" fill="#f0f6fc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">FastAPI</text><rect x="308" y="196" width="138" height="34" rx="17" fill="#161b22" stroke="#30363d"/><text x="326" y="218" fill="#f0f6fc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">PostgreSQL</text><rect x="458" y="196" width="98" height="34" rx="17" fill="#161b22" stroke="#30363d"/><text x="476" y="218" fill="#f0f6fc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">Redis</text><rect x="568" y="196" width="122" height="34" rx="17" fill="#161b22" stroke="#30363d"/><text x="586" y="218" fill="#f0f6fc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">RabbitMQ</text>
-  <text x="896" y="84" fill="#8b949e" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="14">focus</text>
-  <text x="896" y="119" fill="#58a6ff" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="18" font-weight="700">reliable systems</text>
-  <text x="896" y="151" fill="#f0f6fc" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="16">backend platforms</text>
-  <text x="896" y="181" fill="#f0f6fc" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="16">pragmatic delivery</text>
+  <g transform="translate(852 52)">
+    <rect x="0" y="0" width="284" height="154" rx="12" fill="#161b22" stroke="#30363d"/>
+    <rect x="0" y="0" width="284" height="34" rx="12" fill="#0d1117" stroke="#30363d"/>
+    <circle cx="18" cy="17" r="5" fill="#f85149"/>
+    <circle cx="36" cy="17" r="5" fill="#d29922"/>
+    <circle cx="54" cy="17" r="5" fill="#3fb950"/>
+    <text x="78" y="22" fill="#8b949e" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" font-weight="700">focus.runtime</text>
+    <text x="22" y="64" fill="#58a6ff" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="16" font-weight="700">$ boot focus</text>
+    <text x="22" y="95" fill="#f0f6fc" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="15">status: reliable systems</text>
+    <text x="22" y="123" fill="#f0f6fc" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="15">scope: backend platforms</text>
+  </g>
 </svg>
