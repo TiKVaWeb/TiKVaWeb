@@ -1,5 +1,5 @@
-![TiKVaWeb profile header](./assets/header-light-v2.svg#gh-light-mode-only)
-![TiKVaWeb profile header](./assets/header-dark-v2.svg#gh-dark-mode-only)
+![TiKVaWeb profile header](./assets/header-light-v3.svg#gh-light-mode-only)
+![TiKVaWeb profile header](./assets/header-dark-v3.svg#gh-dark-mode-only)
 
 # TiKVaWeb
 
